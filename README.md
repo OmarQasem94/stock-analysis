@@ -29,4 +29,5 @@ While the 2018 dataset took 0.96 seconds to tun as opposed to 0.48 seconds befor
 
 
 ## **Summary**
-For the purpose of this analysis refactoring the code provided several advantages including: made the code easier to comprehend, made the code more extensible for adding other functions, and the code would still be fully functional even if more datasets were added to account for more years. On the other hand refactoring the code icreased the time it took the code to run, and refactoring the code was time consuming which in certain cases could not be possible due to time constraints or budget issues.
+Code refactoring is used to rearrange or restructure existing computer code. Refactoring has several advantages and disadvantages associated with it. The positives of refactoring include: enhacements to the design of the software, makes the software easier to comprehend, helps with finding bugs, and increases the flexibility of the code. In regards to this analysis refactoring has improved the design of the code and made it more flexible. The refactoring of this code made it much more flexible and continue to be fully functional even if more datasets were included to account for more years. On the other hand refactoring code could pose some disadvantages such as additional costs and it could be very time consuming.
+ 
